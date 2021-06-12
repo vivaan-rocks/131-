@@ -5,7 +5,7 @@ objectDetector='';
 
 
 function preload(){
-    img=loadImage('bg.jpg');
+    img=loadImage('bgbg.png');
 }
 function draw(){
     image(img,0,0,600,500);

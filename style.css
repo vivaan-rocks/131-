@@ -1,10 +1,10 @@
 body{
-    background-image:url(bg.jpg);
+    background-image:url(1409098.jpg);
     background-position: center;
     background-size: cover;
 }
 canvas{
-    box-shadow: 10px 10px 10px grey;
+    box-shadow: 10px 10px 10px rgb(98, 202, 0);
     height: 500px;
     width: 600px;
 }
